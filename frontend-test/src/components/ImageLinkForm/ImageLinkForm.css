@@ -1,0 +1,21 @@
+.form{
+    width:700px;
+background: rgb(210, 62, 139);
+background:
+linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 0 0,
+linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 0 0,
+linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px,
+linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px,
+#36c;
+background-size: 15px 30px;
+}
+
+a{
+    padding: 5px,5px,5px,5px;
+}
+
+a:hover{
+    border: 2px solid pink;
+    transform: scale(5);
+
+}
